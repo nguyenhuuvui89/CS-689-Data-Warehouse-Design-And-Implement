@@ -1,0 +1,1186 @@
+ShipName,ShipType,Nationality
+LA ORBE,FRAGATA,Spanish
+SAN CARLOS,PAQUEBOTE,Spanish
+SANTA PERPETUA,FRAGATA,Spanish
+LA LIEBRE,FRAGATA,Spanish
+LA ATREVIDA,FRAGATA,Spanish
+LA ATREVIDA,CORVETA,Spanish
+DESCONOCIDO-04,NAVIO,Spanish
+SANTA EULALIA,PAQUEBOTE,Spanish
+SAN PIO,CORVETA,Spanish
+SANTISIMO SACRAMENTO,FRAGATA,Spanish
+EL PINZON,PAQUEBOTE,Spanish
+EL CUERVO,PAQUEBOTE,Spanish
+Na Sa DE LA PIEDAD,PAQUEBOTE,Spanish
+LA INFANTA,PAQUEBOTE,Spanish
+LA DIANA,PAQUEBOTE,Spanish
+EL LANZAROTE,PAQUEBOTE,Spanish
+EL QUIROS,PAQUEBOTE,Spanish
+La Cantabria,Fragata correo,Spanish
+La Diana,Fragata correo,Spanish
+EL MAGALLANES,PAQUEBOTE,Spanish
+EL KAULIKAN,PAQUEBOTE,Spanish
+EL DESPACHO,PAQUEBOTE,Spanish
+El Quiros,Fragata correo,Spanish
+San Pedro y San Pablo,Fragata Correo,Spanish
+El Real Carlos,Paquebot,Spanish
+SANTIAGO,PAQUEBOTE,Spanish
+EUROPA,NAVIO,Spanish
+RESOLUCION Y AVENTURA,NAVIO,Spanish
+MAGALLANES,NAVIO,Spanish
+JACINTA,MISTICO,Spanish
+LABORDE,BERGANTIN,Spanish
+Greyhound,,British
+Duke of Dorset,,British
+Swallow,Sloop,British
+Alert,Brig,British
+Thisbe,,British
+Crown,,British
+Lapwing,,British
+Cyrene,6th Rate,British
+Centurian,4th Rate,British
+Admiral Vernon,,British
+Marlborough,,British
+Dragon,,British
+Tartar,Frigate,British
+Sandwich,,British
+Griffin,,British
+Griffin,6th Rate,British
+Royal George,,British
+Ilchester,,British
+Streatham,,British
+Ruby,3rd Rate,British
+Ruby,4th Rate,British
+Blandford,Frigate,British
+Jason,4th rate,British
+Saltash,,British
+Falcon,Sloop,British
+Jason,Sloop,British
+Jamaica,,British
+Lark,5th Rate,British
+Hector,,British
+Lark,,British
+Mercury,6th Rate,British
+Kent,3rd Rate,British
+Mercury,,British
+Mercury,Frigate,British
+Renown,5th Rate,British
+Renown,,British
+Renown,Frigate,British
+Sheerness,,British
+Badger,Snow,British
+Speedwell,,British
+Sphinx,,British
+Cumberland,3rd Rate,British
+Prince Henry,,British
+Assurance,5th Rate,British
+Glasgow,6th Rate,British
+Glasgow,,British
+Glory,5th Rate,British
+Severn,,British
+Spy,Cutter,British
+Assistance,4th Rate,British
+Gosport,5th Rate,British
+Kingfisher,Sloop,British
+Success,6th Rate,British
+Tryal,Sloop,British
+Tryal,Sloop (?),British
+Crown,5th Rate,British
+Prince George,,British
+Rainbow,5th Rate,British
+Salisbury,,British
+Reliance,Armed Storeship,British
+Endeavour,Bark,British
+Ajax,,British
+Amazon,Frigate,British
+Greenwich,Storeship,British
+Dunkirk,4th Rate,British
+Colchester,,British
+Greenwich,4th Rate,British
+Colchester,4th Rate,British
+Fairy,6th rate,British
+Fairy,Sloop,British
+Hector,3rd Rate,British
+Dreadnought,3rd Rate,British
+Surprise,,British
+Prince Rupert,,British
+Eltham,,British
+Dedaigneuse,5th Rate,British
+Caroline,5th rate,British
+Sceptre,3rd rate,British
+Phaeton,5th rate,British
+Culloden,3rd rate,British
+Glatton,,British
+Lancaster,3rd rate,British
+Concorde,5th rate,British
+Saldanha,,British
+Amazon,5th Rate,British
+Belle Isle,3rd rate,British
+Conqueror,3rd rate,British
+Decade,5th Rate,British
+Swiftsure,3rd Rate,British
+Lord Walsingham,,British
+Harrier,Brigsloop,British
+Earl Spencer,,British
+Georgina,,British
+Tremendous,3rd Rate,British
+Sceptre,3rd Rate,British
+Lancaster,3rd Rate,British
+Surprise,5th Rate,British
+Scourge,Sloop,British
+Amphitrite,6th Rate,British
+Concorde,5th Rate,British
+Stork,Sloop,British
+Caroline,,British
+Harrier,,British
+Royal Admiral,,British
+Rattlesnake,Sloop,British
+Acasta,5th Rate,British
+Camel,storeship,British
+Albatross,Brig,British
+Ambuscade,5th Rate,British
+Andromache,5th Rate,British
+Argo,5th Rate,British
+Belmont,,British
+Diana,5th Rate,British
+Earl of Mansfield,,British
+Ganges,3rd Rate,British
+Eliza,,British
+Gorgon,5th Rate,British
+Greyhound,5th Rate,British
+Lansdown,,British
+Marquis of Lansdowne,,British
+Royal Charlotte,,British
+Sans Parcil,3rd Rate,British
+Scorpion,Sloop,British
+Tremendous,,British
+Castle Huntley,,British
+Earl Talbot,,British
+General Elliot,,British
+Bellona,,British
+Seine,5th Rate,British
+Lilly,Sloop,British
+Hound,Sloop,British
+Malabar,4th Rate,British
+Rattler,Sloop,British
+Seahorse,,British
+Laurel,6th Rate,British
+Malabar,,British
+Townsend,Packet ship,British
+Hermes,Sloop,British
+Diadem,3rd Rate,British
+Cumberland,,British
+Chichester,Storeship,British
+Cuffnells,,British
+Alfred,,British
+Lascelles,,British
+Thames,,British
+Travers,,British
+Camel,Storeship,British
+Cormorant,Sloop,British
+Diana,5th rate,British
+Falcon,brig sloop,British
+Falcon,brig,British
+Thames,5th rate,British
+True Briton,,British
+General Coote,,British
+Atalanta,6th rate,British
+Kent,,British
+Lord Anson,,British
+Seahorse,6th Rate,British
+Britannia,,British
+Ceres,,British
+Coldstream,,British
+Dunira,,British
+Earl of Middlesex,,British
+Emerald,5th rate,British
+George IV,,British
+King George III,,British
+Macqueen,,British
+Perseverence,,British
+Poulette,6th rate,British
+Prince Ernest,packet ship,British
+Queen Charlotte,,British
+Repulse,,British
+St Vincent,packet ship,British
+Tigris,,British
+Acasta,5th rate,British
+Neptune,2nd rate,British
+Nereide,5th rate,British
+Saphire,,British
+Stirling Castle,3rd rate,British
+Euphrates,,British
+Warren,,British
+Vulture,Sloop,British
+Weymouth,5th rate,British
+Walmer Castle,,British
+Weymouth,5th Rate,British
+Warley,,British
+Warley,,British 
+Windham,,British
+Walpole,,British
+Warren Hastings,,British
+Calcutta,,British
+Penelope,5th rate,British
+Majestic,4th rate,British
+Conway,6th rate,British
+Ganges,3rd rate,British
+Spartiate,3rd rate,British
+Tweed,6th rate,British
+SANTA CASILDA Y SANTA EULALIA,PAQUEBOTES,Spanish
+Somerset,,British
+Glasgow,4th rate,British
+Elephant,3rd rate,British
+Pylades,sloop,British
+Ramilles,3rd rate,British
+Regulus,storeship,British
+Superb,3rd rate,British
+EL TUCUMAN,PAQUEBOTE,Spanish
+El Tucuman,Fragata correo,Spanish
+EL GALLEGO,BERGANTIN,Spanish
+EL GALLEGO,PAQUEBOTE,Spanish
+El Gallego,Paquebot,Spanish
+EL REY,PAQUEBOTE,Spanish
+El Rey,Fragata correo,Spanish
+AUDAZ,BERGANTÍN,Spanish
+DESCONOCIDO-01,NAVIO,Spanish
+DESCONOCIDO-02,,Spanish
+BUEN CONSEJO,NAVIO,Spanish
+CORZO,FALUCHO,Spanish
+DESCONOCIDO-03,FRAGATA,Spanish
+CORTES,PAQUEBOTE,Spanish
+CORTES,Fragata correo,Spanish
+EL PIZARRO,PAQUEBOTE,Spanish
+EL PIZARRO,Fragata Correo,Spanish
+SAN JOSE EL PERUANO,NAVIO,Spanish
+INFANTE,PAQUEBOTE,Spanish
+Tenerife,Paquebot,Spanish
+Diligencia,PAQUEBOTE,Spanish
+Diligencia,Fragata correo,Spanish
+Diligencia,Fragata Correo,Spanish
+Diligencia,,Spanish
+PRINCIPE,PAQUEBOTE,Spanish
+PRINCIPE,Fragata correo,Spanish
+Adamant,4th rate,British
+Alligator,6th rate,British
+Amphion,5th rate,British
+Andromache,5th rate,British
+Argo,5th rate,British
+Atlas,,British
+Aurora,,British
+Beaver,Sloop,British
+Bittern,sloop,British
+Blanche,5th Rate,British
+Blonde,5th Rate,British
+Boyne,2nd rate,British
+Bridgewater,,British
+Bulldog,Sloop,British
+Busbridge,,British
+Calypso,Sloop,British
+Charon,5th rate,British
+Crescent,5th rate,British
+Dadalus,5th rate,British
+Daphne,6th rate,British
+Defence,3rd rate ,British
+Diomede,4th rate,British
+Grampus,5th rate,British
+Guardian,5th rate,British
+Dromedary,Storeship,British
+Druid,5th Rate,British
+Inconnu-1,,French
+L'Indiscrette,,French
+L'Ambition,,French
+L'Aquillon,,French
+Amphitrite,,French
+La Belle Poule,,French
+La Bergere,,French
+L'Oiseau,5th rate,British
+Sphynx,6th rate  ,British
+Le Leopard,,French
+La Tourterelle,,French
+La Perle,,French
+La Favorite,,French
+La Favorite,Corvette,French
+La Diane,,French
+Le Oiseau,,French
+La Fleur de Lys,,French
+La Pomone,,French
+La Coulisse,,French
+La Danaé,,French
+La Dedaigneuse,,French
+La Durance,,French
+La Elourdie,,French
+La Fortune,,French
+La Loir,,French
+La Lourde,,French
+La Ménagére,,French
+La Nourrice,,French
+La Pintade,,French
+La Poulette,Corvette,French
+La Terpsicore,,French
+L'Actif,,French
+L'actionnaire,,French
+Le Amphitrite,,French
+Le Danube,,French
+Le Desiré,,French
+Le Etoile,,French
+Le Paquebot,,French
+Le Rhóne,Gabarre,French
+Le Rossignol,,French
+Le Saumon,Gabarre,French
+Le Serin,,French
+Le Vaillans,,French
+Le Zephir,,French
+L'isis,,French
+No. 3,Paquebot,French
+Enterprise,6th rate,British
+Essex,,British
+Europa,4th rate,British
+Imperieuse,5th Rate,British
+Expedition,5th rate,British
+Experiment,5th rate,British
+Favourite,sloop,British
+Ferret,Brig,British
+Flora,5th rate,British
+Fox,5th rate,British
+Heroine,5th rate,British
+Torrington,,British
+Valentine,,British
+Triton,6th Rate,British
+Garland,,British
+Hebe,5th rate,British
+Hector,3rd rate,British
+Heureux,6th rate,British
+Hope,brig/sloop,British
+Hornet,sloop,British
+Inspector,sloop,British
+L'Aimable,5th rate,British
+Lapwing,6th rate,British
+Laurel,6th rate,British
+Leocadia,5th rate,British
+Leviathan,3rd rate,British
+Lilly,sloop,British
+DESCONOCIDO-05,PAQUEBOTE,Spanish
+SAN FRANCISCO XAVIER,BERGANTIN,Spanish
+DESCONOCIDO-06,PAQUEBOTE,Spanish
+SAN FRANCISCO XAVIER,BERGANTÍN,Spanish
+EL ACTIVO,PAQUEBOTE,Spanish
+SANTA BIBIANA,FRAGATA,Spanish
+Majestic,3rd rate,British
+VIVIANA,FRAGATA,Spanish
+Mentor,,Dutch
+Maarsen,Oorlogsschip,Dutch
+Neerlands Koning,,Dutch
+Sara Johanna,,Dutch
+Hecla,Steamer,Dutch
+Soerabaya,,Dutch
+Palembang,Fregat,Dutch
+Rotterdam,,Dutch
+Maria,,Dutch
+Rotterdam,Fregat,Dutch
+Rhoon en Pendrecht,,Dutch
+Castor,Korvet,Dutch
+Boreas,Korvet,Dutch
+Nieuw Lekkerland,,Dutch
+Heldin,Korvet,Dutch
+Maria Elisabeth,,Dutch
+Scipio,Fregat,Dutch
+Menado,,Dutch
+Ambarawa,,Dutch
+Prins Hendrik,,Dutch
+Nehalennia,Fregat,Dutch
+Frankendaal,,Dutch
+Unknown-01,,Dutch
+Amicitia,,Dutch
+Koning Willem II,,Dutch
+Phoenix,Steamer,Dutch
+Merapi,Steamer,Dutch
+Pollux,Fregat,Dutch
+Celebes,Bark,Dutch
+Cornelia Sara,,Dutch
+Wassenaar,,Dutch
+Prins Veldmaarschalk,Bark,Dutch
+Princes Royal Frederique,,Dutch
+Valk,Fregat,Dutch
+Princes Louisa,Oorlogsschip,Dutch
+Willem,,Dutch
+Zephyr,Oorlogssnauw,Dutch
+Admiraal Evertsen,,Dutch
+Sara Lydia,Fregat,Dutch
+Kemphaan,,Dutch
+Albrecht Beijling,,Dutch
+Princes Carolina,,Dutch
+Pecering,Brik,Dutch
+Cadmus,,Dutch
+Zephyr,oorlogssnauw,Dutch
+Ajax,Korvet v Oorlog,Dutch
+'s-Gravenhage,,Dutch
+Waterloo,Linieschip,Dutch
+Komeet,Korvet,Dutch
+Watergeus,,Dutch
+Akerendam,,Dutch
+Princes Carolina,Oorlogsschip,Dutch
+Ystroom,,Dutch
+Schiedam,Oorlogsschip,Dutch
+Rotterdams Welvaren,,Dutch
+Ternate,Bark,Dutch
+Rotterdams Welvaren,Fregat,Dutch
+Ternate,,Dutch
+Magdalena,,Dutch
+Orangezaal,Fregat,Dutch
+India,,Dutch
+Unknown-02,,Dutch
+Allarm,Fregat,Dutch
+Rhijn,,Dutch
+Scholtenburg,,Dutch
+Princes Maria Louisa,,Dutch
+Unknown-03,,Dutch
+Van Oldenbarneveld,,Dutch
+Sloterdijk,,Dutch
+Onverwagt,Whaler,Dutch
+Straalen,,Dutch
+Alkemade,,Dutch
+Amazone,Fregat,Dutch
+Hippomenes,Korvet,Dutch
+Iris,Corvet,Dutch
+Landskroon,,Dutch
+Nehalennia,Korvet,Dutch
+Sirene,Brik,Dutch
+Noordbeveland,,Dutch
+Schiedam,,Dutch
+Rupel,Fregat,Dutch
+Vlietlust,,Dutch
+Westerveld,Brik,Dutch
+Vlieg,Brik,Dutch
+Vrouwe Margaretha Maria,,Dutch
+Prins Frederik Hendrik,,Dutch
+Johanna,,Dutch
+Susanna,,Dutch
+Tempel,,Dutch
+Thetis,Fregat,Dutch
+Thetis,Frigate,Dutch
+Utrecht,Fregat,Dutch
+Van der Werff,Fregat,Dutch
+Stad Utrecht,,Dutch
+Flores,,Dutch
+Javaan,,Dutch
+Postillon,Brik,Dutch
+Wesel,Galjoot,Dutch
+Jonge Lieve,,Dutch
+Vrouwe Cornelia Hillegonda,,Dutch
+Vreedenburg,,Dutch
+Mars,,Dutch
+Haarlemmerhout,,Dutch
+Oud Haarlem,,Dutch
+Theodora en Sara,,Dutch
+Zeeland,Fregat,Dutch
+Zwaluw,Snauw,Dutch
+Kemphaan,Advijsjagt,Dutch
+Admiraal de Ruyter,,Dutch
+Zephyr,Snaauw,Dutch
+Africa,,Dutch
+Pollux,Korvet,Dutch
+L' Esperance,,French
+Maarseveen,,Dutch
+Panther,Cotter,Dutch
+Tromp,Fregat,Dutch
+Kemphaan,Kotter,Dutch
+Stavenisse,,Dutch
+Arend,Fregat,Dutch
+De Ruijter,Linieschip,Dutch
+Nassau-Weilburgh,,Dutch
+Pollux,,Dutch
+Maasnimph,Bargentijn,Dutch
+Catharina Johanna,,Dutch
+Ajax,Korvet,Dutch
+Haarlemmerhout,Fregat,Dutch
+Melampus,,Dutch
+Snelheid,,Dutch
+Middelburg,,Dutch
+Neerlands Indië,,Dutch
+Vrouw Maria Cornelia,,Dutch
+Jason,,Dutch
+St Maartensdijk,,Dutch
+Arend,Korvet,Dutch
+Amstel,,Dutch
+Amstel,Fregat,Dutch
+Arend,,Dutch
+Boreas,Fregat,Dutch
+Buitenzorg,,Dutch
+Bos en Hoven,,Dutch
+Borssele,,Dutch
+Brak,Kotter,Dutch
+Castor,Fregat,Dutch
+Ceres,Fregat,Dutch
+Christiaan Huijgens,,Dutch
+Claudius Civilis,,Dutch
+Curacao,Steamer,Dutch
+Dageraad,Fregat,Dutch
+Diana,Fregat,Dutch
+Dolphijn,Fregat,Dutch
+Dordregt,Fregat,Dutch
+Drie Vrienden,,Dutch
+Eensgezindheid,,Dutch
+Egmond,,Dutch
+Elisabeth,,Dutch
+Egmond,Schoener,Dutch
+Eliza Susanna,,Dutch
+Eolus,,Dutch
+Jerusalem,,Dutch
+Schagen,,Dutch
+Schorpioen,Schoener,Dutch
+Eendracht,Korvet,Dutch
+Zwaan,,Dutch
+Vlijt,Paketboot,Dutch
+Vrouw Maria Geertruida,Brik,Dutch
+Goede Trouw,,Dutch
+Surseance,,Dutch
+Wilhelmina Lucia,,Dutch
+Star,Paketboot,Dutch
+Unie,,Dutch
+Pollux,Corvet,Dutch
+Windhond,Korvet,Dutch
+Van Speyk,Korvet,Dutch
+Javaan,Fregat,Dutch
+Dolphijn,,Dutch
+Elise,Fregat,Dutch
+Sirene,,Dutch
+Jason,Fregat,Dutch
+Lucipara's,,Dutch
+Admiraal Jan Evertsen,,Dutch
+Hercules,,Dutch
+Wolf,,Dutch
+Margaretha Simonette,,Dutch
+Jacoba,,Dutch
+Vliegende Visch,Schoener,Dutch
+Joan de Witt,,Dutch
+Vr. Elisabeth & Anna Catherina,,Dutch
+Tromp,,Dutch
+Maas Nijmph,,Dutch
+Marij-Goddard,Schoener,Dutch
+Botland,,Dutch
+Welgeleegen,,Dutch
+Merwede,,Dutch
+Eliza,,Dutch
+Mercuur,Brik,Dutch
+Bellona,Fregat,Dutch
+Olivier van Noord,,Dutch
+Unknown-04,,Dutch
+Unknown-05,,Dutch
+Vrede,,Dutch
+Eensgezindheid,Fregat,Dutch
+Rembrandt van Rhijn,,Dutch
+Margaretha en Maria,,Dutch
+Unknown-06,,Dutch
+Echo,Brik,Dutch
+Dordrecht,,Dutch
+China,,Dutch
+Pluto,,Dutch
+Prins van Oranje,,Dutch
+Proserpina,,Dutch
+Oost-Indië Packet,,Dutch
+Snoek,,Dutch
+Spaarzaamheid,,Dutch
+Straat Bali,,Dutch
+Catharina,,Dutch
+Westerveld,,Dutch
+Braave,Fregat,Dutch
+Serpent,Schoener,Dutch
+Unknown-07,,Dutch
+Soolo,,Dutch
+Prins Veldmaarschalk,,Dutch
+Iris,Transportschip,Dutch
+Vrouwe Maria,Vrachtschip,Dutch
+Iris,,Dutch
+Witte Cornelisz de Wit,,Dutch
+Willem Barendsz,Bark,Dutch
+Gouverneur Generaal de Klerk,,Dutch
+Gouverneur Generaal De Klerk,,Dutch
+Lynx,Korvet,Dutch
+La Boussole,,French
+Maria Reigersbergen,Fregat,Dutch
+Curacao,stoompacket,Dutch
+Jacob Roggeveen,,Dutch
+Rotterdams Welvaren,Korvet,Dutch
+Bato,,Dutch
+Spion,,Dutch
+Brutus,,Dutch
+TERRIBLE,NAVÍO,Spanish
+DESCONOCIDO-07,NAVÍO,Spanish
+Medusa,4th rate,British
+DESCONOCIDO-07,NAVIO,Spanish
+ASUNCIÓN,FRAGATA,Spanish
+DESCONOCIDO-09,PAQUEBOTE,Spanish
+DESCONOCIDO-08,DESCONOCIDA,Spanish
+Melville Castle,,British
+Nautilus,Sloop,British
+Pomona,6th rate,British
+Proserpine,6th rate,British
+Raymond,,British
+Regulus,5th rate,British
+Resource,6th rate,British
+Ruby,3rd rate,British
+Scorpion,sloop,British
+Seahorse,6th rate,British
+Severn,5th rate,British
+Dolfijn,Korvet,Dutch
+Gier,Brik,Dutch
+Saparoea,Schoener,Dutch
+Loopuijt,Bark,Dutch
+Oud Nederland,Fregat,Dutch
+Unknown-08,,Dutch
+Sumatra-Java,Fregat,Dutch
+Unknown-09,,Dutch
+Hendrika,,Dutch
+Anthony,,Dutch
+La Flore,,French
+Pallas,Korvet,Dutch
+Kortenaer,,Dutch
+Nederwaard,,Dutch
+Cortgene,,Dutch
+Europa,,Dutch
+Euridice,Fregat,Dutch
+Euridice,,Dutch
+Proteus,Bark,Dutch
+Doctrina et Amicitia,Fregat,Dutch
+Doctrina et Amicitia,,Dutch
+Java Koerier,,Dutch
+Gouverneur Elsevier,,Dutch
+Amphitrite,Korvet,Dutch
+Amphitrite,,Dutch
+Geertuijda en Christina,Fregat,Dutch
+Algiers,Fregat,Dutch
+Ceres,,Dutch
+Aurora,Fregat,Dutch
+Piet Heijn,Fregat,Dutch
+Adder,Schoener,Dutch
+Staatsraad Baud,,Dutch
+Haay,Brik,Dutch
+Die Gebruder,,Hamburg
+Grenadier,,Dutch
+Nieuwe Hoop,Snauw,Dutch
+Walvisch,,Dutch
+Argo,Korvet,Dutch
+Arend,Brik,Dutch
+Unknown-10,,Dutch
+Argo,Brik,Dutch
+Jonge Jan,,Dutch
+Jacoba Maurina,Bark,Dutch
+Abel Tasman,,Dutch
+Ambon,Schoener,Dutch
+Aruba,Schoener,Dutch
+Atalante,Schoener,Dutch
+Etna,Stoomschip,Dutch
+Gedeh,Stoomschip,Dutch
+Huzaar,Schoenerbrik,Dutch
+Irene,Brik,Dutch
+Prins Frederik,Fregat,Dutch
+Nassau,,Dutch
+Geertruida,Oorlogsschip,Dutch
+Twee Cornelissen,,Dutch
+Twee Cornelissen,Fregat,Dutch
+EL COLON 2?,Fragata correo,Spanish
+EL COLON,PAQUEBOTE,Spanish
+Augusta,,British
+Syren,,British
+Pelham,,British
+Syren,5th Rate,British
+Vigilant,Ship o.t. Line,British
+Drie Gebroeders,,Dutch
+Prinses Marianne,,Dutch
+Standvastigheid,,Dutch
+Haast U Langzaam,Fregat,Dutch
+Henriette Clasina,,Dutch
+Juno,Fregat,Dutch
+Zeeuw,,Dutch
+Atalante,Brik,Dutch
+Havick,Sloop,British
+Wilhelmina en Maria,Fregatschip,Dutch
+Windhond,Brigantijn,Dutch
+Prins Van Oranje,Fregat,Dutch
+Jacobus,,Dutch
+San Fernando,Paquebot,Spanish
+EL PATAGON,PAQUEBOTE,Spanish
+El Patagon,Paquebot,Spanish
+Jan Daniel,,Dutch
+Prins Willem V,,Dutch
+Prins Willem V,Fregat,Dutch
+SAN JOSE,NAVIO,Spanish
+EL GRIMALDI,PAQUEBOTE,Spanish
+El Grimaldi,Paquebot,Spanish
+Hornet,Snow,British
+Hind,6th Rate,British
+Otter,Sloop,British
+Humber,,British
+Penzance,5th Rate,British
+Inglis,,British
+St Albans,3rd Rate,British
+Worcester,,British
+Queen,,British
+Tilbury,,British
+Agatha,,Dutch
+Stad Zierikzee,,Dutch
+Viegelantie,,Dutch
+Admiral Pocock,,British
+Monarca,3rd Rate,British
+Monmouth,3rd Rate,British
+Asia,3rd Rate,British
+Asia,,British
+Doddington,,British
+Clive,,British
+Banka,Schoenerbrik,Dutch
+Princess Augusta,,British
+Shaftesbury,,British
+Azia,,Dutch
+Plancius,,Dutch
+Infanta,Fragata correo,Spanish
+Dortenaar,Fregat,Dutch
+Resolution,Sloop,British
+Resolution,3rd Rate,British
+Rippon,4th Rate,British
+Nymphe,Sloop,British
+Northumberland,,British
+Belleisle,3rd Rate,British
+Coventry,6th Rate,British
+Intrepid,3rd rate,British
+Intrepid,3rd Rate,British
+Salisbury,4th Rate,British
+Pocock,,British
+Buckingham,3rd Rate,British
+Prudent,3rd Rate,British
+Africaensche Galey,,Dutch
+Christina,,Dutch
+Drie Gesusters,,Dutch
+Middelburgs Welvaren,,Dutch
+EFIGENIA,FRAGATA,Spanish
+MERCURIO,CORBETA,Spanish
+LA DESCUBIERTA,CORBETA,Spanish
+LA DESCUBIERTA Y ATREVIDA,FRAGATA,Spanish
+DESCONOCIDO-10,,Spanish
+EL RELÁMPAGO,BERGANTÍN,Spanish
+SANTA ANA,NAVÍO,Spanish
+DESCONOCIDO-11,PAQUEBOTE,Spanish
+Mercurius,,Dutch
+Mercurius,Fregat,Dutch
+Vrouwe Johanna Catharina,,Dutch
+Suriname,,Dutch
+Welmeenende,Snauw,Dutch
+Propatria,,Dutch
+Vrouwe Anthonetta Coenrardina,,Dutch
+Zeepaard,Fregat,Dutch
+Veere,Pink,Dutch
+Broederslust,Hoekerschip,Dutch
+Goede Intentie,Hoekerschip,Dutch
+Verwachting,Chialoup,Dutch
+Veere,,Dutch
+Meermin,,Dutch
+Hoop,,Dutch
+Sambre,Fregat,Dutch
+Magnanime,3rd Rate,British
+Medea,6th Rate,British
+Florida,storeship,British
+Warwick,4th Rate,British
+LA ASTREA,FRAGATA,Spanish
+LA JUNO,FRAGATA,Spanish
+EL RAYO,NAVÍO,Spanish
+Na Sa DEL ROSARIO,FRAGATA,Spanish
+EL SEPTENTRIÓN,BERGANTÍN,Spanish
+DESCONOCIDO-13,,Spanish
+DESCONOCIDO-12,DESCONOCIDA,Spanish
+VENUS,PAQUEBOTE,Spanish
+VENUS,FRAGATA,Spanish
+SAN JOSEF,NAVÍO,Spanish
+MIÑO,NAVÍO,Spanish
+EL FAMOSO SEVILLANO,PAQUEBOTE,Spanish
+SERIO,NAVÍO,Spanish
+SAN JUAN BAUTISTA,POLACRA,Spanish
+Na Sa DEL CARMEN,BERGANTÍN,Spanish
+Na Sa DEL VALLE,PAQUEBOTE,Spanish
+SANTO CRISTO DEL CALVARIO,POLACRA,Spanish
+"Na Sa DEL ROSARIO, (LA PAZ)",FRAGATA,Spanish
+DESCONOCIDO-14,BERGANTÍN,Spanish
+DESCONOCIDO-14,,Spanish
+DESCONOCIDO-15,PAQUEBOTE,Spanish
+LOS TRES AMIGOS,BERGANTÍN,Spanish
+EL GALLARDO,NAVÍO,Spanish
+GRANIZO,PAQUEBOTE,Spanish
+PERPETUA,FRAGATA,Spanish
+SAN PASCUAL,NAVÍO,Spanish
+EL FÉNIX,NAVÍO,Spanish
+SAN JUSTO,NAVÍO,Spanish
+EL MARLLORQUÍN,JABEQUE,Spanish
+DESCONOCIDO-16,FRAGATA,Spanish
+DESCONOCIDO-17,NAVÍO,Spanish
+DESCONOCIDO-18,NAVÍO,Spanish
+ATREVIDA Y DESCUBIERTA,CORBETAS,Spanish
+Victor,sloop,British
+SANTA ELENA,FRAGATA,Spanish
+SAN ISIDORO,NAVÍO,Spanish
+DESCONOCIDO-19,FRAGATA,Spanish
+Sheerness,5th rate,British
+Gibraltar,3rd Rate,British
+Isis,4th rate,British
+Isis,4th Rate,British
+Hunter,Sloop,British
+Trusty,4th rate,British
+Victorious,3rd rate,British
+Suffolk,3rd rate,British
+Active,5th rate,British
+Active,6th Rate Frigat,British
+Sybille,5th rate,British
+LA VENUS,PAQUEBOTE,Spanish
+SAN JOSEPH,NAVÍO,Spanish
+SAN JOSEPH,DESCONOCIDO,Spanish
+SANT JOSEPH,NAVÍO,Spanish
+LA FENIX,GOLETA GUARDA C,Spanish
+LA DESCUBIERTA,DESCONOCIDO,Spanish
+DESCONOCIDO-21,PAQUEBOTE,Spanish
+DESCONOCIDO-20,NAVÍO,Spanish
+DESCONOCIDO-22,NAVÍO,Spanish
+SAN PABLO (ALIAS LA FAVORITA),FRAGATA,Spanish
+MARQUESA DE BALVUENA,FRAGATA,Spanish
+EL CARMEN (ALIAS EL SALVADOR),FRAGATA,Spanish
+EL JUPITER,FRAGATA,Spanish
+EL JUPITER,PAQUEBOTE,Spanish
+Na Sa DE LOS DOLORES,PAQUEBOTE,Spanish
+Na Sa DE LOS DOLORES,FRAGATA,Spanish
+SAN JAIME (EL VALENCIANO),BERGANTÍN,Spanish
+SANTA TERESA DE JESÚS,NAVÍO,Spanish
+EL MONARCA,NAVÍO,Spanish
+EL MONARCA,PAQUEBOTE,Spanish
+EL ANDALUZ,CHAMBEQUÍN,Spanish
+Swift,sloop,British
+Bristol,4th Rate,British
+Naiade,6th Rate,British
+Anna,,Dutch
+Anna,Zeilschip,Dutch
+Delphina,,Dutch
+Philadelphia,,Dutch
+Mermaid,6th Rate,British
+Medway,4th Rate,British
+Hampshire,,British
+Hampshire,4th Rate,British
+Norwich,5th Rate,British
+Woolwich,,British
+Woolwich,5th Rate,British
+Woolwich,storeship,British
+Gibraltar,6th Rate,British
+Namur,2nd Rate,British
+Falkland,4th Rate,British
+Lively,6th Rate,British
+Grafton,3rd Rate,British
+Dublin,3rd Rate,British
+Queenborough,6th Rate,British
+Lowestoffe,6th Rate,British
+Falmouth,4th Rate,British
+Lynn,5th Rate,British
+Aurora,5th Rate,British
+Levant,6th Rate,British
+Panther,4th Rate,British
+Chesterfield,5th Rate,British
+Phoenix,,Dutch
+Snoek en Both,Fregat,Dutch
+Eenigheijt,,Dutch
+Eenigheijt,Snauw,Dutch
+Vrouwe Johanna Cores,Fregat,Dutch
+Chatham,4th Rate,British
+Rose,,British
+Rose,6th Rate,British
+Liverpool,6th Rate,British
+Alderney,Sloop,British
+Baleine,5th Rate,British
+Terpsichore,5th Rate,British
+Terpsichore,6th Rate,British
+Terpsichore,5th rate,British
+Argo,6th Rate,British
+Boston,5th Rate,British
+Manilla,Sloop,British
+Swift,Sloop,British
+Druid,Sloop,British
+Arundel,6th Rate,British
+Perseus,6th Rate,British
+Shoreham,6th Rate,British
+Shannon,5th Rate,British
+Ludlow Castle,6th Rate,British
+Nisus,5th Rate,British
+Nisus,,British
+Zanggodin,Snauw,Dutch
+Zanggodin,,Dutch
+Vliegende Faam,,Dutch
+Vliegende Faam,Snauw,Dutch
+Boreas,6th Rate,British
+Favourite,Sloop,British
+Squirrel,6th Rate,British
+Martin,Sloop,British
+Vansittart,,British
+Merlin,Sloop,British
+Guernsey,4th Rate,British
+Romney,4th Rate,British
+Romney,4th rate,British
+Fowey,6th Rate,British
+Pearl,5th Rate,British
+Constellation,Brik,American
+Hannach,Brik,American
+Havick,Fregat,Dutch
+Havick,Sloep,Dutch
+Prins Frederik,,Dutch
+Nymphe,Fregat,French
+Havick,Korvet,Dutch
+Fanny,,Dutch
+LIEBRE,FRAGATA,Spanish
+EL GRAN PODER DE DIOS,BALANDRA,Spanish
+DRAGÓN,NAVÍO,Spanish
+DESCONOCIDO-23,DESCONOCIDA,Spanish
+SAN PEDRO,NAVÍO,Spanish
+SANTA TERESA (ALIAS DRAGON),NAVÍO,Spanish
+SAN PEDRO APOSTOL,NAVÍO,Spanish
+DESCONOCIDO-23,NAVÍO,Spanish
+SAN DÁMASO,NAVÍO,Spanish
+SAN DÁMASO,,Spanish
+SAN JOSEPH (PODEROSO),NAVÍO,Spanish
+ANDALUZ,CHAMBEQUÍN,Spanish
+EL HOPP,BERGANTÍN,Spanish
+SANTO DOMINGO,FRAGATA,Spanish
+SANTO DOMINGO,NAVÍO,Spanish
+SANTO DOMINGO,NAVIO,Spanish
+SANTO DOMINGO,BUQUE,Spanish
+DESCONOCIDO-24,DESCONOCIDO,Spanish
+SAN GIL,PAQUEBOTE,Spanish
+Maria Magdalena,FRAGATA,Spanish
+Maria Magdalena,Fragata correo,Spanish
+FENIX,NAVÍO,Spanish
+GALLARDO,NAVÍO,Spanish
+MAGDALENA,FRAGATA,Spanish
+SANTA MARIA MAGDALENA,FRAGATA,Spanish
+SANTA MARIA MAGDALENA,PAQUEBOTE,Spanish
+DILIGENTE,NAVÍO,Spanish
+DILIGENTE,PAQUEBOTE,Spanish
+SAN JULIAN,NAVÍO DE LA REA,Spanish
+SAN JULIAN,NAVÍO,Spanish
+DESCONOCIDO-25,,Spanish
+SANTA BALVINA,FRAGATA,Spanish
+SANTA BALVINA,PAQUEBOTE,Spanish
+SANTA LUCIA,FRAGATA,Spanish
+NaSa DEL ROSARIO (LA NUMANCIA),FRAGATA,Spanish
+LA LORETO,FRAGATA,Spanish
+Na Sa DE ARANZAZU,FRAGATA,Spanish
+SAN PEDRO DE ALCANTARA,NAVÍO,Spanish
+RL. CARLOS,NAVÍO,Spanish
+SANTA CLARA,FRAGATA,Spanish
+LA SUERTE (SAN FCO JAVIER),BERGANTÍN,Spanish
+LA PERLA,FRAGATA DE GUER,Spanish
+LA PERLA,FRAGATA,Spanish
+LA MOSCA,GOLETA,Spanish
+Na Sa DEL CARMEN (EL GRIEGO),PAQUEBOTE,Spanish
+HERCULES,NAVÍO,Spanish
+HERCULES,FALUCHO,Spanish
+Phoenix,5th Rate,British
+Niger,5th Rate,British
+Phoenix,,British
+Guadaloupe,6th Rate,British
+Quebec,5th rate,British
+Quebec,5th Rate,British
+Stag,5th Rate,British
+Stag,5th rate,British
+Burford,3rd Rate,British
+Trident,3rd rate,British
+Antelope,4th Rate,British
+Tweed,5th rate,British
+Tweed,5th Rate,British
+Kennington,6th Rate,British
+Portland,4th Rate,British
+Lizard,6th Rate,British
+Alborough,6th Rate,British
+Weazle,Sloop,British
+Montreal,5th Rate,British
+Alarm,5th rate,British
+Alarm,5th Rate,British
+Cruizer,Sloop,British
+Lynx,Sloop,British
+Deal Castle,6th Rate,British
+Carysfort,6th Rate,British
+Carysfort,6th rate,British
+Princess Amelia,3rd Rate,British
+Racehorse,special vessel,British
+Raven,Sloop,British
+Prothee,3rd Rate,British
+Somerset,3rd Rate,British
+Pallas,5th Rate,British
+Senegal,Sloop,British
+Winchelsea,5th Rate,British
+Surpize,6th Rate,British
+Attelante,Brik,Dutch
+Auguste,Fregat,Dutch
+Wilhelmina,Fregat,Dutch
+Wilhelmina,,Dutch
+Jan en Cornelis,Koopvaarder,Dutch
+Vasco de Gama,,Dutch
+Valk,Brik,Dutch
+Panter,Brik,Dutch
+Koerier,Brik,Dutch
+Koerier,,Dutch
+Star,Brig-Sloop,British
+Star,brig/sloop,British
+Standard,,British
+Standard,3rd rate,British
+Experiment,4th Rate,British
+Scarborough,6th Rate,British
+Preston,4th Rate,British
+Arethusa,5th Rate,British
+Hester,merchant brig,British
+Thetis,5th Rate,British
+Pluto,fireship,British
+Eagle,3rd rate,British
+Atlanta,Sloop,British
+Eagle,3rd Rate,British
+Hannibal,Brig,British
+Hannibal,6th Rate,British
+Aolus,5th Rate,British
+Yarmouth,3rd Rate,British
+Raisonable,3rd rate,British
+Raisonable,3rd rate  ,British
+Raisonable,3rd Rate,British
+Egmont,3rd Rate,British
+Ramilles,3rd Rate,British
+Hornet,Sloop,British
+Janus,5th Rate,British
+Crocodile,6th Rate,British
+Jupiter,4th Rate,British
+Jupiter,4th rate,British
+Morning Star,4th Rate,British
+Narcissus,6th Rate,British
+Narcissus,7th Rate,British
+Narcissus,8th Rate,British
+Caton,3rd Rate,British
+Mediator,5th Rate,British
+Iphigenia,5th Rate,British
+Grampus,4th Rate,British
+York,,British
+Vanguard,3rd rate,British
+Triton,6th rate,British
+Tromp,4th Rate,British
+Tromp,4th rate,British
+Unite,5th rate,British
+Swan,sloop,British
+Ulysses,5th rate,British
+Zeemercuur,,Dutch
+Nederlands Welvaren,,Dutch
+Candia,,Dutch
+Vergenoegen,Fregat,Dutch
+Rendier,O.I. Schip,Dutch
+Dregterlandt,,Dutch
+Kenau Hasselaar,,Dutch
+Revolutie,,Dutch
+Kroonprincesse Maria,,Danish
+Friedrich,,Dutch
+Pegasus,Brik,Dutch
+Zwaluw,Brik,Dutch
+Maas,Fregat,Dutch
+Dordrecht,Transportschip,Dutch
+Unknown-12,,Dutch
+Triton,Korvet,Dutch
+Venus,Brik,Dutch
+Formosa,,Dutch
+Batavia,,Dutch
+Batavia,Fregat,Dutch
+Batavia,Stoomschip,Dutch
+Suriname,Stoomschip,Dutch
+Mercator,Bark,Dutch
+Bromo,Steamer,Dutch
+Bromo,Stoomschip,Dutch
+Lansier,Schoenerbrik,Dutch
+Estafette,Bark,Dutch
+Cornelia,Bark,Dutch
+Seaford,6th Rate,British
+Ferret,Sloop,British
+Montague,3rd Rate,British
+Minerva,5th Rate,British
+Magicienne,5th Rate,British
+Minerva,5th rate,British
+PODEROSO,FRAGATA,Spanish
+PODEROSO,NAVÍO,Spanish
+PODEROSO,NAVIO,Spanish
+La Gironde,,French
+Le Prothée,,French
+Le Triton,,French
+L'Heureux,,French
+La Seine,,French
+Le Chariot Royal,,French
+Le Rhinoceros,,French
+Le Rhinoceros,Fregatte,French
+Le Bizarre,,French
+Le Parham,,French
+Le Aigle,,French
+Le Valeur,Fregate,French
+PURISIMA CONCEPCIÓN,NAVÍO,Spanish
+PURISIMA CONCEPCIÓN,DESCONOCIDO,Spanish
+Le Salomon,,French
+La Petite Fortune,,French
+Le Vicomte de Choiseuil,,French
+L'aimable Marie Anne,,French
+SANTA TERESA,PAQUEBOTE,Spanish
+SANTA MARÍA DE LA CAVEZA,FRAGATA,Spanish
+SANTA MARÍA DE LA CAVEZA,PAQUEBOTE,Spanish
+La Belette,Corvette,French
+SANTA MARÍA DE LA CAVEZA,DESCONOCIDO,Spanish
+LA PRINCESA,Paquebot,Spanish
+LA PRINCESA,PAQUEBOTE,Spanish
+LA PRINCESA,FRAGATA,Spanish
+L'Etoile,Flute,French
+Le Furet,L'aviso,French
+La Desirée,,French
+No. 12,Paquebot,French
+Freden,,Swedish
+Götha Leijon,,Swedish
+L'hipocrite,Corvette,French
+No. 8,Paquebot,French
+La Loire,Gabarre,French
+La Lamproie,,French
+La Lamproye,,French
+Le Barbeau,,French
+L'Experiment,,French
+La Graciense,Fregate,French
+La Capriciense,Fragate,French
+La Cassares,Brick,French
+Inconnu-2,,French
+DESCONOCIDO-26,DESCONOCIDO,Spanish
+Polanen,,Dutch
+SAN ANTONIO,NAVIO,Spanish
+"NaSa DEL ROSARIO,STMA TRINIDAD",NAVIO,Spanish
+DESCONOCIDO-27 (RAYO),NAVÍO,Spanish
+SAN VICENTE,NAVÍO,Spanish
+SANTA GERTRUDIS,FRAGATA,Spanish
+SAN RAFAEL,NAVÍO,Spanish
+SAN RAFAEL,NAVIO,Spanish
+SAN RAFAEL,FRAGATA,Spanish
+SEPTENTRIÓN,NAVÍO,Spanish
+SAN LORENZO,NAVIO,Spanish
+SAN LORENZO,NAVÍO,Spanish
+SAN LORENZO,PAQUEBOTE,Spanish
+ASTUTO,NAVÍO,Spanish
+ASTUTO,NAVIO,Spanish
+MARTE,PAQUEBOTE,Spanish
+SANTA BÁRBARA,FRAGATA,Spanish
+SANTA MARGARITA,FRAGATA,Spanish
+SANTA ROSALÍA,FRAGATA,Spanish
+SANTA ROSALÍA,FRAGATA DE GUER,Spanish
+DESCONOCIDO-29,NAVÍO,Spanish
+EL AGUILA,FRAGATA,Spanish
+EL AGUILA,PAQUEBOTE,Spanish
+EL AGUILA,Fragata Correo,Spanish
+EL AGUILA,Fragata correo,Spanish
+EL AGUILA,FRAGATA/ CORREO,Spanish
+Amsterdam,,Dutch
+Amsterdam,Stoomschip,Dutch
+Euryalus,5th Rate,British
+EL CUERVO,PAQUEBOTE,Spanish
+Cumberland,,British
+Euridice,Fregat,Dutch
+Otter,Sloop,British
+Shaftesbury,,British
+EL RELÁMPAGO,BERGANTÍN,Spanish
+Dublin,3rd Rate,British
+Squirrel,6th Rate,British
+LA PERLA,FRAGATA DE GUER,Spanish
+Star,Brig-Sloop,British
+Janus,5th Rate,British
